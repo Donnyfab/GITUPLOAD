@@ -1,0 +1,11 @@
+# folders
+node_modules/
+__pycache__/
+# files
+.env
+secrets.txt
+# file types
+*.log
+*.tmp
+.env.*
+.env*
